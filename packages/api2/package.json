@@ -29,7 +29,7 @@
     "pg": "7.12.1",
     "typeorm": "0.2.32",
     "bcryptjs": "2.4.3",
-    "jsonwebtoken": "8.5.1",
+    "jsonwebtoken": "9.0.0",
     "@monosample/lib": "1.0.0"
   },
   "devDependencies": {
